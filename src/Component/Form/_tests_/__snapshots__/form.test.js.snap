@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check if Form component is rendered properly or not 1`] = `
+<div
+  id="Form"
+>
+  <form>
+    <h2>
+      Hello There!!
+    </h2>
+    <input
+      id="username"
+      name="username"
+      placeholder="Enter your name"
+      type="text"
+      value=""
+    />
+    <br />
+    <input
+      id="number"
+      name="number"
+      placeholder="Enter your phone number"
+      type="number"
+      value=""
+    />
+    <br />
+    <input
+      id="gender"
+      name="gender"
+      placeholder="Enter your Gender"
+      type="text"
+      value=""
+    />
+    <br />
+    <button
+      id="button"
+      type="submit"
+      value="Submit"
+    >
+      ADD USER
+    </button>
+  </form>
+</div>
+`;

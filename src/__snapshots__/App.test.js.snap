@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the App Component Snapshot 1`] = `
+<div
+  class="App"
+>
+  <div
+    id="counter"
+  >
+    <p>
+      Our Total User Count Is: 
+      0
+    </p>
+    <p>
+       Add more to increase the number
+    </p>
+  </div>
+  <div
+    class="Form"
+  >
+    <div
+      id="Form"
+    >
+      <form>
+        <h2>
+          Hello There!!
+        </h2>
+        <input
+          id="username"
+          name="username"
+          placeholder="Enter your name"
+          type="text"
+          value=""
+        />
+        <br />
+        <input
+          id="number"
+          name="number"
+          placeholder="Enter your phone number"
+          type="number"
+          value=""
+        />
+        <br />
+        <input
+          id="gender"
+          name="gender"
+          placeholder="Enter your Gender"
+          type="text"
+          value=""
+        />
+        <br />
+        <button
+          id="button"
+          type="submit"
+          value="Submit"
+        >
+          ADD USER
+        </button>
+      </form>
+    </div>
+  </div>
+  <div
+    class="Table"
+  >
+    <div
+      id="Table"
+    >
+      <input
+        name="search"
+        type="text"
+        value=""
+      />
+      <table>
+        <tbody>
+          <tr>
+            <th>
+              NAME
+            </th>
+            <th>
+              PHONE
+            </th>
+            <th>
+              GENDER
+            </th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

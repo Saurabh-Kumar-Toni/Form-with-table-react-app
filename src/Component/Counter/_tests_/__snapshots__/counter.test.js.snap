@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if counter component is renedered or not 1`] = `
+<div
+  id="counter"
+>
+  <p>
+    Our Total User Count Is: 
+    2
+  </p>
+  <p>
+     Add more to increase the number
+  </p>
+</div>
+`;
